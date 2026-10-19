@@ -13,3 +13,4 @@ Sube el contenido de esta carpeta al repositorio conectado con Vercel. Vercel ej
 
 ## Nota científica
 La relación entre tubos de vacío y auroras se presenta como analogía histórica con límites. La Tierra no es literalmente un tubo de vacío y las auroras no son radiactividad ni rayos X.
+Versión histórica interactiva preparada para Vercel.
